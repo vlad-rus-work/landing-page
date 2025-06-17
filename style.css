@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+:root {
+  --dark-bg-color: #1f2937;
+  /* Hero main text, header logo text */
+  --hero-main-text: #f9faf8;
+  --hero-secondary-text: #e5e7eb;
+  /* Button color, call to action bg color */
+  --button-color: #3882f6;
+  --info-header-text: #1f2937;
+  --quote-section-bg: #e5e7eb;
+  --quote-text: #1f2937;
+}
